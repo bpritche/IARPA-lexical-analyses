@@ -46,6 +46,6 @@ for i = 1:num_words
     
 end
 
-%% Save!
+
 synt_freq_map = containers.Map(names, synt_freqs);
-save synt_freq_map.mat synt_freq_map
+save synt_freq_map.map synt_freq_map

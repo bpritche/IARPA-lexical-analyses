@@ -18,6 +18,8 @@ syntcat_filename = 'syntcats_perword.txt';
 syntcat_fid = fopen(syntcat_filename, 'r');
 syntcats_perword_outer = textscan(syntcat_fid, '%s'); %weird artifact of textscan
 syntcats_perword = syntcats_perword_outer{1};
+name_syntcat_map = containers.Map(names, syntcats_perword);
+save name_syntcat_map.mat name_syntcat_map
 syntcat_names = {'Adj', 'Adv', 'FuncWord', 'N', 'V'};
 syntcat_map = containers.Map(syntcat_names, 1:length(syntcat_names));
 fclose(syntcat_fid);
