@@ -1,0 +1,98 @@
+#onsets
+
+  5.0	28
+  7.5	105
+ 10.0	177
+ 12.5	12
+ 15.0	155
+ 17.5	163
+ 20.0	11
+ 22.5	92
+ 25.0	37
+ 27.5	52
+ 30.0	64
+ 32.5	20
+ 35.0	16
+ 37.5	162
+ 40.0	178
+ 42.5	97
+ 45.0	85
+ 47.5	169
+ 50.0	136
+ 52.5	74
+ 55.0	70
+ 57.5	121
+ 60.0	99
+ 62.5	53
+ 65.0	127
+ 67.5	2
+ 70.0	13
+ 72.5	91
+ 75.0	14
+ 77.5	47
+ 80.0	46
+ 82.5	93
+ 85.0	166
+ 87.5	15
+ 90.0	60
+ 92.5	89
+ 95.0	142
+ 97.5	88
+100.0	21
+102.5	36
+105.0	44
+107.5	130
+110.0	146
+112.5	158
+115.0	159
+122.5	57
+125.0	1
+127.5	109
+130.0	123
+132.5	160
+135.0	72
+137.5	5
+140.0	110
+142.5	23
+145.0	161
+147.5	62
+150.0	176
+152.5	48
+155.0	147
+157.5	115
+160.0	135
+162.5	125
+165.0	19
+167.5	66
+170.0	134
+172.5	143
+175.0	82
+177.5	149
+180.0	108
+182.5	137
+185.0	18
+187.5	42
+190.0	76
+192.5	83
+195.0	157
+197.5	179
+200.0	133
+202.5	174
+205.0	103
+207.5	65
+210.0	68
+212.5	41
+215.0	148
+217.5	173
+220.0	40
+222.5	138
+225.0	78
+227.5	122
+230.0	165
+232.5	139
+
+#names
+Ab_ility Ac_complished An_gry Ap_artment Ap_plause Ar_gument Ar_gumentatively Ar_t At_titude Ba_g Ba_ll Ba_r Be_ar Be_at Be_d Be_er Bi_g Bi_rd Bl_ood Bo_dy Br_ain Br_oken Bu_ilding Bu_rn Bu_siness Ca_mera Ca_refully Ch_allenge Ch_arity Ch_arming Cl_othes Co_ckroach Co_de Co_llection Co_mputer Co_nstruction Co_ok Co_unt Cr_azy Da_mage Da_nce Da_ngerous De_ceive De_dication De_liberately De_livery De_ssert De_vice Di_g Di_nner Di_sease Di_ssolve Di_sturb Do_ Do_ctor Do_g Dr_essing Dr_iver Ec_onomy El_ection El_ectron El_egance Em_otion Em_otionally En_gine Ev_ent Ex_periment Ex_tremely Fe_eling Fi_ght Fi_sh Fl_ow Fo_od Ga_rbage Go_ld Gr_eat Gu_n Ha_ir He_lp Hu_rting Ig_norance Il_lness Im_press In_vention In_vestigation In_visible Jo_b Ju_ngle Ki_ndness Ki_ng La_dy La_nd La_ugh La_w Le_ft Le_vel Li_ar Li_ght Ma_gic Ma_rriage Ma_terial Ma_thematical Me_chanism Me_dication Mo_ney Mo_untain Mo_vement Mo_vie Mu_sic Na_tion Ne_ws No_ise Ob_ligation Pa_in Pe_rsonality Ph_ilosophy Pi_cture Pi_g Pl_an Pl_ant Pl_ay Pl_easure Po_or Pr_ison Pr_ofessional Pr_otection Qu_ality Re_action Re_ad Re_lationship Re_ligious Re_sidence Ro_ad Sa_d Sc_ience Se_afood Se_ll Se_w Se_xy Sh_ape Sh_ip Sh_ow Si_gn Si_lly Si_n Sk_in Sm_art Sm_iling So_lution So_ul So_und Sp_oke St_ar St_udent St_upid Su_ccessful Su_gar Su_spect Ta_ble Ta_ste Te_am Te_xture Ti_me To_ol To_y Tr_ee Tr_ial Tr_ied Ty_pical Un_aware Us_able Us_eless Va_cation Wa_r Wa_sh We_ak We_ar We_ather Wi_llingly Wo_rd 
+
+#durations
+1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 

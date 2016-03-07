@@ -1,0 +1,180 @@
+Ability Ab1
+Accomplished    Ac1
+Angry   An1
+Apartment   Ap1
+Applause    Ap2
+Argument    Ar1
+Argumentatively Ar2
+Art Ar3
+Attitude    At1
+Bag Ba1
+Ball    Ba2
+Bar Ba3
+Bear    Be1
+Beat    Be2
+Bed Be3
+Beer    Be4
+Big Bi1
+Bird    Bi2
+Blood   Bl1
+Body    Bo1
+Brain   Br1
+Broken  Br2
+Building    Bu1
+Burn    Bu2
+Business    Bu3
+Camera  Ca1
+Carefully   Ca2
+Challenge   Ch1
+Charity Ch2
+Charming    Ch3
+Clothes Cl1
+Cockroach   Co1
+Code    Co2
+Collection  Co3
+Computer    Co4
+Construction    Co5
+Cook    Co6
+Count   Co7
+Crazy   Cr1
+Damage  Da1
+Dance   Da2
+Dangerous   Da3
+Deceive
+Dedication
+Deliberately
+Delivery
+Dessert
+Device
+Dig
+Dinner
+Disease
+Dissolve
+Disturb
+Do
+Doctor
+Dog
+Dressing
+Driver
+Economy
+Election
+Electron
+Elegance
+Emotion
+Emotionally
+Engine
+Event
+Experiment
+Extremely
+Feeling
+Fight
+Fish
+Flow
+Food
+Garbage
+Gold
+Great
+Gun
+Hair
+Help
+Hurting
+Ignorance
+Illness
+Impress
+Invention
+Investigation
+Invisible
+Job
+Jungle
+Kindness
+King
+Lady
+Land
+Laugh
+Law
+Left
+Level
+Liar
+Light
+Magic
+Marriage
+Material
+Mathematical
+Mechanism
+Medication
+Money
+Mountain
+Movement
+Movie
+Music
+Nation
+News
+Noise
+Obligation
+Pain
+Personality
+Philosophy
+Picture
+Pig
+Plan
+Plant
+Play
+Pleasure
+Poor
+Prison
+Professional
+Protection
+Quality
+Reaction
+Read
+Relationship
+Religious
+Residence
+Road
+Sad
+Science
+Seafood
+Sell
+Sew
+Sexy
+Shape
+Ship
+Show
+Sign
+Silly
+Sin
+Skin
+Smart
+Smiling
+Solution
+Soul
+Sound
+Spoke
+Star
+Student
+Stupid
+Successful
+Sugar
+Suspect
+Table
+Taste
+Team
+Texture
+Time
+Tool
+Toy
+Tree
+Trial
+Tried
+Typical
+Unaware
+Usable
+Useless
+Vacation
+War
+Wash
+Weak
+Wear
+Weather
+Willingly
+Word

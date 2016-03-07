@@ -1,0 +1,1778 @@
+2,5c2,5
+< The writer was quite accomplished and on his fourth book.
+< He was angry and frightened at the same time. 
+< They rent out an apartment from their home.
+< The applause was drowned out by the cheering.
+---
+> The accomplished writer loves to read. 
+> He was both angry and frightened. 
+> They rent out the apartment in their home.
+> The cheering drowned out the applause.
+7,8c7,8
+< He said his point argumentatively, and unadvisedly so.
+< The poetry workshop was a work of art in itself.
+---
+> He unadvisedly spoke argumentatively.
+> The poetry workshop was a work of art.
+10c10
+< She wanted to pack a bag for the day trip. 
+---
+> She wants to pack a bag for the day trip. 
+13c13
+< That bear would chase you in a minute.
+---
+> Watch out, that bear will chase you.
+17c17
+< He preferred to be a big fish in a small pond.
+---
+> He wants to be a big fish in a small pond.
+19c19
+< She had been bleeding for a while so there was a lot of blood.
+---
+> She was bleeding and lost a lot of blood.
+21,22c21,22
+< The human brain continues to amaze us today.
+< The missing mirror turned out to be broken.
+---
+> The human brain still amazes us today.
+> The broken mirror went missing. 
+26,27c26,27
+< The best camera has an unremarkable screen size. 
+< She carefully handled the roses one by one.
+---
+> The best camera looks unremarkable. 
+> She carefully handled the roses.
+32,37c32,37
+< The pest control killed the cockroach speedily. 
+< Please change the code to make it run faster.
+< Her collection of precious antiques was her pride and joy.
+< The system crashed so he needed another computer.
+< Construction slowed down as soon as the last wall was put up.
+< To cook the fish you have to defrost it first. 
+---
+> The pest control killed the cockroach. 
+> Change the code to make it run faster.
+> She loves her collection of antiques. 
+> The system crash destroyed the computer.  
+> Construction slowed down at the last wall.
+> Defrost the fish before you cook it.  
+41c41
+< He had to shuffle through the steps of the dance.
+---
+> Just shuffle through the dance steps.
+44,45c44,45
+< His passionate proclamation demonstrated his dedication.
+< She deliberately and wrongfully hurt her friend.
+---
+> His dedication shows how passionate he is.
+> She deliberately and wrongfully hurt him.
+48c48
+< She didn't understand how to position the antenna so that the device would work.
+---
+> The device has a finicky antenna. 
+50c50
+< Her lunch is often made up of leftovers from dinner. 
+---
+> Her lunch is often leftovers from dinner. 
+52c52
+< Inject some more solution to dissolve the powder.
+---
+> Inject a solution to dissolve the powder.
+57,58c57,58
+< The dressing would be thicker if an egg was mixed in. 
+< The driver felt it was his duty to take her home safely.
+---
+> The thicker dressing has egg in it.  
+> The driver had a duty to take her home.
+60c60
+< The election took place at the town hall meeting.
+---
+> The election took place at the meeting.
+63c63
+< His shame was his least controlled emotion.
+---
+> His shame is his least controlled emotion.
+67,70c67,70
+< This psychology experiment aimed to study human behavior.
+< She is extremely powerful in the workroom. 
+< She was feeling a bit afraid in light of finals coming up.
+< The first swing of the sword began the fight.
+---
+> This experiment aims to study human behavior.
+> Her written work is extremely powerful. 
+> Finals left her feeling afraid for her grade.
+> The first sword swing began the fight.
+75,76c75,76
+< I've always wanted a gold watch for my thirtieth birthday.
+< The experience was irresistible in how great it was. 
+---
+> I want a gold watch for my thirtieth.
+> The great experience became irresistible. 
+78,85c78,85
+< His blond hair looked very attractive against a dark blue shirt. 
+< Someone had to help her to replace the engine. 
+< Her nose was hurting after the fall on the concrete.
+< That is an example of his misunderstanding rather than his ignorance. 
+< The illness spread quickly across the local community. 
+< It is easy to impress the unsuspecting countess. 
+< The invention could comprise the company's future.
+< The criminal was under investigation again.
+---
+> His blond hair looks good with blue. 
+> Someone had to help her replace the engine. 
+> Her nose is still hurting after the fall.
+> Blame his frailty rather than his ignorance. 
+> The illness spread across the community. 
+> You impress the unsuspecting countess. 
+> The invention will comprise his integrity.
+> The criminal is under investigation again.
+96,97c96,97
+< I measured his level of consciousness just now.
+< While he is a troublemaker, he isn't a liar.  
+---
+> I just measured his level of consciousness.
+> He’s a troublemaker, not a liar.   
+100c100
+< She was pregnant at the time of her marriage.
+---
+> She got pregnant before her marriage.
+102,104c102,104
+< A random mathematical expression means nothing to me.
+< Pulling the wire triggered an invisible mechanism.
+< Taking the medications has strange effects on her body.
+---
+> It’s a random mathematical expression to me.
+> Pull the wire to trigger a mechanism.
+> The medication has strange effects on her.
+106c106
+< The trail went all the way up the mountain.
+---
+> The trail ends halfway up the mountain.
+108,109c108,109
+< Part of the story is left out in the movie. 
+< His song was an example of her favorite kind of music.
+---
+> This story is left out of the movie. 
+> This song is like her favorite kind of music.
+111c111
+< The report presented the news in lay language.
+---
+> The report presents the news in lay language.
+115,116c115,116
+< His personality was greatly affected by his physical decline.
+< Philosophy provides a window to many perspectives on the same idea.
+---
+> His personality changes with his stress.
+> Philosophy provides many perspectives.
+118,120c118,120
+< The pig and the cattle do not get along well.
+< The first step of the plan has been completed. 
+< The plant was growing rapidly by springtime.
+---
+> The pig and cattle do not get along well.
+> The first step of the plan is now complete. 
+> The plant was growing fast by springtime.
+122,123c122,123
+< Humans can derive a lot of pleasure from sex.
+< The young people in the building were poor.
+---
+> People have sex for pleasure.  
+> The young people were poor.
+125,128c125,128
+< The worker had worked for many years as a professional.
+< The protection he provided gave her security.
+< The shopkeeper could guarantee good quality. 
+< The reaction the metal showed when exposed to oxygen was noticeable. 
+---
+> The worker is a veteran professional.
+> She found security in his protection.
+> The shopkeeper will guarantee good quality. 
+> Oxygen and metal create a reaction. 
+131c131
+< Church is a place where religious people go.
+---
+> Religious people often go to church. 
+134,135c134,135
+< She was pained by the odd reminder of her sad past.
+< The research facility is dedicated to studies of natural science.
+---
+> The reminder of her sad past hurt her. 
+> The facility is used for science research.
+138c138
+< Knowing how to sew well requires an eye for detail. 
+---
+> You need an eye for detail to sew. 
+141c141
+< Boat is another way of describing a small ship.
+---
+> Boat is another name for a small ship.
+144c144
+< The proposal was so unrealistic as to be silly.
+---
+> The unrealistic proposal was just silly. 
+146,151c146,151
+< The skin on her face became red in the sun.
+< The candidate's responses are always smart and informed.
+< He spent the afternoon staring at the sun and smiling.
+< The best solution has the fewest loopholes.
+< The notions of soul and spirit are closely related.
+< The sound of her voice calmed him down immediately.
+---
+> The skin on her face turns red in the sun.
+> The informed candidate has smart responses.
+> Smiling, he stayed staring at the sun. 
+> The best solution has the least loopholes.
+> The soul and spirit are closely related.
+> The sound of her voice will resonate. 
+154c154
+< The student was in class when his mother called.
+---
+> The student was in class when his aunt called.
+156,158c156,158
+< The famous actress was extremely successful.
+< The recipe called for a whole cup of sugar.
+< The suspect was dead before they got to him.
+---
+> The successful actress is extremely famous.
+> The recipe called for a cup of sugar.
+> The suspect was dead before they got there.
+160c160
+< She thought the hot chocolate had a rich taste. 
+---
+> She says the hot chocolate had a rich taste. 
+162,164c162,164
+< The rough texture of the table was surprising.
+< It had seemed like he had so much time the night before.
+< The tool he needed most right now was a saw.
+---
+> The table’s rough texture surprised him.
+> He has a lot of time before the event. 
+> He needed any tool other than a saw. 
+169,172c169,172
+< It is typical for her to get bored in lecture and rely on his notes. 
+< She was unaware of how oblivious he really was.
+< The writing was barely usable and hardly publishable.
+< It was frustrating how useless calling Customer Service was.
+---
+> It was typical for him to rely on her. 
+> She is unaware of how oblivious he is.
+> The writing is usable but barely publishable.
+> Useless help desks are frustrating. 
+175c175
+< You can wash the counter as much as you'd like, it'll never be sterile.
+---
+> To make the counter sterile, wash it. 
+179,182c179,182
+< Not only did he willingly pick her up, he was happy to do so.
+< She used the correct word on first try.
+< Her ability and knack got her where she is now.
+< The accomplished producer was well respected.
+---
+> A happy kid, he willingly smiled. 
+> She used the correct word on her first try.
+> Her ability and knack for it got her here.
+> The accomplished producer is well respected.
+184c184
+< The floor above the apartment is under renovation.
+---
+> This apartment floor is under renovation.
+186,188c186,188
+< I cannot confirm whether this argument is more valid. 
+< Judging on how argumentatively she spoke, I'd say she's hardhearted. 
+< The tradition of art in this school is strong. 
+---
+> I will confirm the more valid argument. 
+> The hardhearted woman speaks argumentatively.  
+> The school has a strong tradition of art. 
+191,192c191,192
+< She could not pass the ball for the life of her.
+< Cowboys don't go to bars, they prefer saloons.
+---
+> She can’t pass the ball for the life of her.
+> Cowboys go to saloons instead of bars.
+196,197c196,197
+< He grabbed a bottle of beer from the fridge. 
+< While he wasn't quite obese, he had gotten quite big.
+---
+> He can grab a bottle of beer from here. 
+> While he isn’t obese, he is quite big.
+199c199
+< She has been having issues with blood circulation in her legs.
+---
+> The blood circulation in her legs is bad.
+203c203
+< The library building has been around for years.
+---
+> The library building is pretty old.  
+205,209c205,209
+< The company wanted to improve its business sector.
+< The spectrum of colors that this camera captures is unreal.
+< She performed the job carefully yet efficiently. 
+< The hardship was a challenge she could overcome. 
+< The social organization developed a new devotion to charity.
+---
+> The company will improve its business sector.
+> The camera captures a lot of colors. 
+> She carefully and efficiently did the job. 
+> The hardship is a challenge she will defeat. 
+> The organization has a new devotion to charity.
+211c211
+< Sizing a growing boy's clothes is a difficult task. 
+---
+> Sizing a young boy's clothes is difficult. 
+213,217c213,217
+< He saved the code quickly when he came up with a new solution.
+< He hoarded a collection of autographs of famous people.
+< Running the application made the computer freeze.
+< Plastering is an important step in construction.
+< If she wanted to cook, she would need a larger fridge. 
+---
+> The new solution could save the code. 
+> He hoarded a collection of autographs.
+> Running the application freezes the computer.
+> Plastering is the next step in construction.
+> If she wants to cook, she needs a fridge. 
+220,225c220,225
+< The impact of the snow required damage control.
+< She learned how the dance in ballroom class last year.
+< Climbing that bridge was boneheaded and dangerous. 
+< How could he deceive her in such a devious way?
+< His dedication to his job is what made him so successful.
+< He ruthlessly and deliberately ignored her that night. 
+---
+> The snow’s impact required damage control.
+> She can dance in the ballroom course. 
+> Climbing that dangerous bridge is boneheaded. 
+> He’s devious enough to deceive her. 
+> His dedication makes him so successful. 
+> He ruthlessly and deliberately ignored her. 
+228c228
+< The device was wired in a very simple way. 
+---
+> The device is wired very simply. 
+231,233c231,233
+< Type Two Diabetes is a disease that usually only adults get.
+< You won't dissolve the issue by asking them to disperse. 
+< He can disturb her as much as he likes, it won't affect me.
+---
+> Type Two Diabetes is an adult disease.
+> Disperse the chunks in fluid to dissolve them
+> His affect will begin to disturb me soon. 
+235,236c235,236
+< A young brilliant doctor performed the surgery.
+< The shelter worker wished that more people wanted a dog.
+---
+> A brilliant doctor performed the surgery.
+> The shelter worker took care of the dog.  
+238c238
+< The driver could not lift the bicycle out of the trunk.
+---
+> The driver can’t lift the box out of the trunk.
+240c240
+< The council would hold another election next spring.
+---
+> The council has an election next spring.
+242,244c242,244
+< The formality of the event added to its elegance.
+< Sorrow was his dominating emotion nowadays. 
+< Morally and emotionally the decision was difficult. 
+---
+> The event’s formality screams elegance. 
+> Sorrow is his dominating emotion nowadays. 
+> Morally and emotionally, it is difficult. 
+246,249c246,249
+< The event was a celebration of his life and work.
+< The experiment had a condition that turned out to be diagnostic of psychosis. 
+< She is impossibly kind, and extremely goal-driven. 
+< While he was worried, she was feeling fine.
+---
+> The event is a celebration of his life.
+> The experiment is diagnostic of psychosis. 
+> She is impossibly kind and extremely driven. 
+> While he is worried, she is feeling fine.
+251,252c251,252
+< His plan to find fish like shark in saltwater was just silly.
+< The minimal water flow reminded him to pay his rent.
+---
+> He plans to find sharks and other fish.  
+> The water flow reminds him to pay his rent.
+255,256c255,256
+< The yellow gold shone brightly against her skin.
+< If the first choice was great, the second was absolutely terrific.
+---
+> The yellow gold shines brightly in the sun.
+> You are great but aim to be terrific. 
+258,261c258,261
+< His moustache is a different color from the hair on his head.
+< You can't recover alone, you need a doctor to help you. 
+< His tooth was hurting after baseball practice.
+< His arrogance is striking given the level of his ignorance.
+---
+> His moustache hair is a strange color.  
+> You can't recover without a doctor to help you
+> His tooth was hurting after practice.
+> His striking ignorance upholds his arrogance.  
+264,267c264,267
+< The invention of the drink involved an unexpected element.
+< An investigation doesn't necessarily produce a charge.
+< The girl felt insignificant, like she was invisible.
+< As a coordinator, it is her job to organize the event.
+---
+> The invention involves an unexpected element.
+> An investigation can produce a charge.
+> The girl felt insignificant and invisible.
+> The coordinator's job is to organize. 
+269c269
+< Kindness and loyalty are two things you need in a partner.
+---
+> You need kindness and loyalty in a friend.
+271,273c271,273
+< The princess was a young lady and newly married.
+< The island is mostly made up of uninhabitable land.
+< At comedy clubs people tend to laugh and clap at the same time.
+---
+> The princess is a newly married young lady.
+> The island consists of uninhabitable land.
+> At comedy clubs people both laugh and clap.
+276c276
+< Your salary should reflect your level of performance. 
+---
+> The salary reflects your level of performance. 
+278c278
+< The light from the window made her eyes hurt.
+---
+> The light from the window hurt her eyes.
+280,282c280,282
+< Dating and marriage are not the same thing.
+< Covering the statue with this material is harder than it looks.
+< Calculus is the mathematical study of change.
+---
+> Dating sometimes leads to marriage. 
+> Covering the statue with any material is hard.
+> Calculus is a type of mathematical study.
+284,285c284,285
+< The combination of the medication and no sleep was not good. 
+< A good retirement requires having saved a lot of money.
+---
+> Her combination of medication wasn’t good. 
+> A good retirement requires saving money.
+288,290c288,290
+< The character does not develop in this movie. 
+< The orchestra played beautiful music last night.
+< Over a period of mere years, colonialism shaped the nation.
+---
+> The character doesn’t develop in the movie. 
+> The orchestra plays beautiful music.
+> Colonialism shaped the nation in no time.
+293,296c293,296
+< While reserved, he owned up to his obligation eventually.
+< What began as a simple irritation was now intense pain.
+< His compulsive personality is one reason why he is so neat.
+< Philosophy opens up the topic of existentialism. 
+---
+> The reserved man made privacy an obligation.
+> The simple irritation became intense pain.
+> His personality is just compulsive.  
+> Existentialism is a topic of philosophy. 
+299c299
+< The plan resulted in a total transformation. 
+---
+> The plan can result in a transformation. 
+301,302c301,302
+< If you know how to play softball, you can play too.
+< Masturbation gives people pleasure on their own. 
+---
+> You can play too if you play softball.
+> People get pleasure from masturbation. 
+306,308c306,308
+< Privacy does not equate protection in these parts.
+< The quality of the performance kept the shows sold out. 
+< The chemical reaction was difficult to explain in words. 
+---
+> Privacy means protection around here. 
+> The performance quality sells the shows out.
+> The chemical reaction is hard to explain. 
+310c310
+< The couple had recently labeled their relationship.
+---
+> The couple recently labeled its relationship.
+313,316c313,316
+< The tunnel cut across the road after the stop sign. 
+< A glimpse into the future could be happy or sad. 
+< The student studied many different kinds of science.
+< She ordered scallops at the small seafood restaurant.
+---
+> The tunnel cut through the main road. 
+> The future could be happy or sad for her. 
+> The student studied many kinds of science.
+> She ordered scallops at the seafood restaurant.
+322c322
+< The next episode of the show would unfold unexpectedly.
+---
+> The show has one more episode next week. 
+326c326
+< Some think that shaving your skin makes it smoother.
+---
+> Shaving your skin makes it smoother.
+328,329c328,329
+< The girl is innocently smiling at the stranger.
+< The perfect solution may not always be simple.
+---
+> Smiling innocently, she took the candy. 
+> The perfect solution isn’t always simple.
+333,336c333,336
+< The astronomer was observing a star light years away from Earth. 
+< Every student receives a scholarship based on merit.
+< The stupid secretary is just so incompetent. 
+< The scientist was successful at exerting his influence.
+---
+> The star is light years away from Earth.
+> Every student receives a merit scholarship.
+> The stupid secretary is just incompetent. 
+> The successful scientist exerts his influence.
+338,339c338,339
+< The police still didn't have a prime suspect.
+< The chandelier is hanging from the ceiling right above the dining room table.
+---
+> The police still don’t have a prime suspect.
+> The chandelier hangs right above the table.
+342,344c342,344
+< The weird-looking cake had a yucky texture.
+< The days go quicker with time.
+< The machine seemed a bit excessive in the tool shed.  
+---
+> The weird-looking cake has a yucky texture.
+> The days go by quicker with time.
+> The machine seems like an excessive tool.  
+346c346
+< The orange tree provided bountiful produce.
+---
+> The orange tree provides bountiful produce.
+349,351c349,351
+< It was actually quite peculiar and not typical for him to act out like that.
+< She was unashamed of her status, perhaps because she was unaware of it.
+< More importantly, not only was the design usable, but reproducible. 
+---
+> It is typical for him to seem peculiar. 
+> She was unaware and unashamed of her status.
+> The design is usable and reproducible. 
+353c353
+< The rest of her vacation was super relaxed.
+---
+> She can relax the rest of her vacation.
+356c356
+< The competition left her feeling weak and mediocre. 
+---
+> The weak competition left her feeling mediocre. 
+359c359
+< She willingly listened as he complained incessantly. 
+---
+> He incessantly complains, we willingly nod. 
+361,362c361,362
+< His ability and assertiveness made him an attractive candidate.
+< The playwright dreamed of when he would be called accomplished.
+---
+> His ability and assertiveness are attractive.
+> The playwright wanted to be accomplished.
+365c365
+< The commotion of the applause was infectious. 
+---
+> The commotion of applause is infectious. 
+367c367
+< She pitilessly tore apart his argumentatively structured essay.
+---
+> She pitilessly and argumentatively tore him apart.  
+372,373c372,373
+< He learned quickly that most bars don't cater. 
+< The caribou and the bear could smell one another.
+---
+> He learned quickly that bars don't cater. 
+> The caribou and the bear smell one another.
+376,378c376,378
+< The bartender served her a cold wheat beer.
+< Cutting down the branches of the big tree was a substantial job.
+< The only bird she could see was the parrot.
+---
+> The bartender served her a cold beer.
+> Cutting down the big tree is substantial.
+> The only bird she can see is the parrot.
+381,383c381,383
+< Awake surgery is possible because the brain has no nerve endings.
+< She dangerously teetered on the broken chair.
+< Their building is a mansion just for themselves.
+---
+> The brain has no nerve endings.
+> She dangerously teeters on the broken chair.
+> The building is a mansion for themselves.
+385,387c385,387
+< He wanted to invest in a better business.  
+< The camera shutter broke as it fell on the concrete. 
+< He creatively described the problem while carefully explaining the details.
+---
+> He wants to invest in a better business.  
+> The camera shutter broke when it fell.
+> He explained it creatively and carefully. 
+389c389
+< The charity was improving its monetary allocations.
+---
+> The charity is improving its allocations.
+394,400c394,400
+< Since childhood, she has been growing a collection of postcards and other souvenirs.
+< She has never used this kind of interface on her computer before.
+< The construction process began with flooring.
+< He thought he could cook when he bought the pan.
+< She was already able to count to a hundred.  
+< The animal had a crazy and bloodthirsty look to it. 
+< The possibility of damage kept her nervous.
+---
+> Her souvenir collection began in childhood
+> She had this kind of interface on her computer. 
+> The flooring began the construction process
+> He thought a pan was all he needed to cook. 
+> She was able to count to a hundred.  
+> The crazy animal looked bloodthirsty. 
+> The possibility of damage made her nervous
+402,405c402,405
+< Aggravating the president was unpatriotic and plain dangerous.
+< His ploy was to deceive the old lady over a long period of time. 
+< Her dedication spurred her pursuit of the best caterer.
+< She inadvertently stepped on him and he deliberately pushed her in response.
+---
+> Aggravating the president is unpatriotic and dangerous.
+> The ploy was to deceive the old lady slowly.
+> Her dedication spurred her pursuit.  
+> She deliberately fell as she inadvertently slipped
+408c408
+< She had to coax the device to get it going again. 
+---
+> She had to coax the device to start it. 
+410,413c410,413
+< Noodles from dinner were still on the table.  
+< The tumor was a symptom of a serious disease.
+< Dissolve the substance and let it evaporate. 
+< He can disturb and aggravate just about anyone.
+---
+> Noodles from dinner were on the table.  
+> The tumor was a symptom of a disease.
+> Dissolve the substance and it will evaporate. 
+> He can disturb and aggravate anyone.
+415c415
+< The doctor was not used to dealing with patient trauma. 
+---
+> The doctor doesn’t deal with patient trauma. 
+417c417
+< The mozzarella was glazed with an oily dressing.
+---
+> The mozzarella has an oily dressing.
+421,425c421,425
+< An electron affects the equilibrium of a substance. 
+< The grandeur of the home screamed elegance. 
+< The emotion that took over her after the meeting was indignation. 
+< Objectively speaking, he didn't get her emotionally. 
+< A hybrid car has a different kind of engine.
+---
+> An electron impacts the substance’s equilibrium. 
+> The home's grandeur signified its elegance. 
+> Indignation was the emotion she could identify.
+> Objectively, he gets her emotionally. 
+> A hybrid car has a different engine.
+427c427
+< The experiment was measuring blood pressure under different conditions.
+---
+> The experiment asks for a blood sample.  
+431c431
+< After catching a carp, he wanted more fish.
+---
+> He wants more fish after catching the carp.
+435,436c435,436
+< He chose the gold ring after careful deliberation.
+< The great waiter made sure the guests had a lovely time.
+---
+> He eventually chose the gold ring. 
+> The great waiter took care of his guests. 
+440,447c440,447
+< Hurting her hip was the worst thing that could happen.
+< Their ignorance stems from their nighttime debauchery. 
+< The penicillin didn't seem to cure her illness.
+< Misdirect the attention onto you to really impress him. 
+< The semiconductor was a crucial component of the invention.
+< Suspicion spurred the officer to continue the investigation.
+< The spider web is almost invisible to the naked eye.
+< Recruitment season is the perfect time to get a job.
+---
+> Hurting her hip was the worst outcome.
+> Their ignorance stems from their debauchery. 
+> The penicillin won’t cure her illness.
+> Misdirect his attention to impress him.
+> The semiconductor was a crucial invention.
+> The investigation is led with suspicion.
+> The web is almost invisible to the naked eye.
+> Recruitment season is a time to get a job.
+449c449
+< His manliness and kindness made him irresistible.
+---
+> His manliness and kindness are irresistible.
+454,456c454,456
+< The applicability of the law is murky in this situation.
+< The unmarked turkey was left over from November. 
+< The threshold level is almost impossible to beat. 
+---
+> The applicability of the law is murky.
+> The turkey was left from November. 
+> The threshold level is unreal. 
+460c460
+< Some girls start fantasizing about marriage after puberty.
+---
+> Girls fantasize about marriage after puberty.
+462,466c462,466
+< The mathematical simulation made the point clearly.
+< The mechanism had a handle that could be used to start it.
+< The medication was an antidote for his allergy. 
+< His paycheck means more money for the kids. 
+< The glacier was at the top of the mountain.
+---
+> The mathematical simulation made the point
+> The mechanism had a handle to start it.
+> The medication acts as an antidote. 
+> His paycheck means money for the kids. 
+> The glacier is at the mountain top.
+472,473c472,473
+< The children's whispering made some noise. 
+< The contract outlined their obligation as guardians. 
+---
+> The child's whispering made some noise. 
+> The contract outlined their obligation. 
+475,477c475,477
+< Her subconscious impacted her personality in many ways.
+< Spirituality and philosophy are not the same thing.
+< Printing a picture is easier than it seems.
+---
+> Her subconscious impacted her personality.
+> Spirituality and philosophy aren’t the same.  
+> Printing a picture is harder than it seems.
+481c481
+< His business meetings require him to play golf. 
+---
+> He gets to play golf at his meetings.
+484,486c484,486
+< He was no longer a juvenile and was sent to prison.
+< The skilled professional maneuvered her way out of the situation.
+< He wanted to avoid calling protection services. 
+---
+> No longer a juvenile, he was sent to prison.
+> The skilled professional maneuvers well.
+> He avoids calling protection services. 
+488c488
+< Dilute the solutions for a less dramatic reaction. 
+---
+> Dilute the solutions for a reaction. 
+490,497c490,497
+< Intimacy has to be maintained in a relationship.
+< Having grown up religious, he gave a prayer.
+< The lodge is set up like a personal residence.
+< The sidewalk ran alongside the road for a few more blocks.
+< The perplexing nature of the situation made him sad.
+< This applied science is very different from that. 
+< Seafood can be prepared in many different ways, like tempura.
+< The supply is too high for you to sell it for that price.
+---
+> Intimacy is gained in a relationship.
+> A religious man, he gave a prayer.
+> The lodge looks like a personal residence.
+> The sidewalk runs alongside the road. 
+> The perplexing situation made him sad.
+> This applied science is very different. 
+> Tempura is one popular way to prepare seafood. 
+> The high supply changes what you sell it for.
+499c499
+< The pervert found everything with a heartbeat sexy.
+---
+> The pervert thought her heartbeat was sexy.
+501,502c501,502
+< The smallest sail of the ship ripped in the wind.
+< He thought the show was a bit melodramatic.
+---
+> The sail of the ship ripped in the wind.
+> He thinks the show is a bit melodramatic.
+504c504
+< His unsubstantiated claims made him look silly.
+---
+> The unsubstantiated claims are just silly.  
+506c506
+< Her skin was prone to a pimple or two in the summer.
+---
+> Her skin is prone to a pimple or two. 
+509,510c509,510
+< His solution is to end the affair in a discrete way.
+< The realization that he had a soul astounded him.
+---
+> A discrete ending to the affair is his solution.
+> The fact that he has a soul astounds him.
+514c514
+< The faculty to student ratio was rather high this year. 
+---
+> The faculty to student ratio is high this year. 
+516,517c516,517
+< As successful as he was, he strove for more fame.
+< Sugar and butter are two of his biggest cravings.
+---
+> The successful actor wants more fame.  
+> Sugar and butter are his two big cravings.
+520c520
+< The taste of the margarita had a slight zing.
+---
+> The margarita has a zing to its taste.
+522,524c522,524
+< The jellylike texture of the milk meant it had gone bad.
+< They had to reschedule the meeting for a later time.
+< The most useful tool in the office is a stapler. 
+---
+> The jellylike texture of the milk is bad.  
+> They will pick a time for the meeting.
+> A stapler is the most useful office tool.
+527,532c527,532
+< A decision would be made today during the trial. 
+< He corrected the mistake and fortunately tried again.
+< Regardless of the situation, it is typical for her to call him out. 
+< Unprejudiced and unaware, she went full throttle. 
+< At least, the product was usable and distinguishable. 
+< She found it irritating how useless his presentation was.
+---
+> A decision will be made during the trial. 
+> He tried to move the date to later. 
+> It is typical for her to include him
+> Her words were unprejudiced yet unaware.
+> The distinguishable product isn't usable. 
+> The presentation is useless and irritating. 
+535c535
+< He liked to wash himself with bar soap more. 
+---
+> He likes to wash himself with bar soap. 
+539,544c539,544
+< Against all odds, he willingly and earnestly committed the crime.
+< Her nickname is a word commonly used to describe goats.
+< The ability to cultivate creativity is much sought after nowadays.
+< The accomplished choreographer awaited the performance.
+< I was displeased with how outwardly angry he was. 
+< Parts of the apartment can only be accessed by ladder.
+---
+> He willingly and earnestly commits the crime.
+> Her nickname is a word used to describe goats.
+> He has the ability to cultivate creativity.  
+> The accomplished choreographer waits alone.
+> I am displeased with how angry he was. 
+> Parts of the apartment are ladder accessible.
+547c547
+< The opaquely constructed thought meshed with how argumentatively she attacked him.
+---
+> The thought is dirtily and argumentatively constructed. 
+549c549
+< He needs to work on his domineering attitude.
+---
+> He will work on his domineering attitude.
+552c552
+< That bar was their new favorite venue to hang out at. 
+---
+> That bar was their new favorite venue.
+556,557c556,557
+< She ordered a margarita after seeing the beer options.
+< His big feet were disproportionate to the rest of his body.
+---
+> She ordered a margarita after the beer. 
+> His big feet are disproportionate. 
+560,563c560,563
+< The body of the dress made her look shapeless.
+< A fundamental unit of the brain is the neuron. 
+< The disorganized room was full of broken things.
+< The janitor put a mousetrap at the entrance of the building.
+---
+> The body of the dress is shapeless.
+> A neuron is the fundamental unit of the brain. 
+> The disorganized room is full of broken things.
+> There’s a mousetrap in the building entrance. 
+566,567c566,567
+< The camera didn't focus and took poor-quality pictures.
+< The food was neatly and carefully arranged. 
+---
+> The camera focus causes low quality photos.
+> The food is neatly and carefully arranged. 
+569,570c569,570
+< The charity event increased everyone's awareness of the worthy cause.
+< The speaker's charismatic nature was charming.
+---
+> The charity event doubled the funding.
+> The speaker's charismatic nature is charming.
+572,577c572,577
+< In the kids story, the grasshopper and the cockroach became friends.
+< He could code like a pro, but he couldn't type fast.
+< He stole more than one stamp to complete his collection.
+< The infrastructure of the computer might as well be a black box.
+< The remodeling would require three years of construction.
+< The steaming pot revealed how well she could cook. 
+---
+> The grasshopper and the cockroach are friends.
+> He can code like a pro but can’t type.
+> He stole a stamp to complete his collection.
+> The infrastructure of the computer is weird.  
+> The remodeling takes two years of construction.
+> The steaming pot holds all she can cook. 
+580,589c580,589
+< The inevitable damage caused by the storm was all he could talk about.
+< The Irish folk dance requires fast footwork.
+< It was unwise to take on that dangerous of a task. 
+< The plan was to bribe and deceive him quickly. 
+< Her dedication mirrored her commitment to the task.
+< He arbitrarily, rather than deliberately, asked her out. 
+< She wanted to intercept the delivery so that no one else could see it.
+< Yogurt did not replace dessert in her mind.
+< The switch on the device popped off unexpectedly.
+< The fossil was found after most people didn't want to dig anymore.  
+---
+> The storm caused inevitable damage. 
+> Irish folk dance requires fast footwork.
+> It’s unwise and dangerous to take it on. 
+> The plan is to deceive and bribe him quickly. 
+> Her dedication mirrored her commitment.
+> Not deliberately, he arbitrarily asked her out. 
+> She wants to intercept the delivery. 
+> In her mind, yogurt doesn’t replace dessert.
+> The switch on the device popped off. 
+> They want to dig for another fossil.
+591c591
+< Abnormal test results indicated the onset of a disease.
+---
+> Abnormal results show the onset of disease. 
+593c593
+< Conspire as much as you like, it won't disturb her. 
+---
+> Conspire as much as you can to disturb her. 
+595c595
+< There is no such thing as an occupational doctor. 
+---
+> You can’t be an occupational doctor. 
+597,599c597,599
+< A delicious dressing was used as a garnish for the entree. 
+< The taxicab driver was tired of the people behind him.
+< The demand for carpools was not predicted by the economy.
+---
+> A delicious dressing will be the garnish. 
+> The taxicab driver is tired of them. 
+> The economy didn’t predict the carpool demand. 
+601,604c601,604
+< The wavelength of an electron can be calculated. 
+< The simplicity of the garden's elegance was incomparable.
+< Betrayal isn't an emotion, though it may trigger one or many. 
+< An unsound judgment left her emotionally wrecked. 
+---
+> He calculated the wavelength of an electron.
+> The simplicity of her elegance is incomparable.
+> Betrayal isn't an emotion you can trigger.
+> An unsound choice destroyed her emotionally. 
+606,609c606,609
+< The housewarming event was heavily attended.
+< Debriefing participants about the experiment is important. 
+< Infinitely grateful, he accepted the award for his extremely well-written proposal.
+< The cat was feeling grumpy and scratched the chair.
+---
+> The housewarming event is heavily attended.
+> Debrief the participants in the experiment.
+> She is extremely grateful and infinitely proud.
+> The cat is feeling grumpy and prone to scratch.
+613c613
+< She tries to get a lot of nutritional value out of her food.
+---
+> Her food has a lot of nutritional value. 
+615,616c615,616
+< The horseshoe had gold accents wrapped around it.
+< The spectacular view was what made the room so great.
+---
+> The horseshoe has pink and gold accents. 
+> The spectacular view made the room so great.
+620,624c620,624
+< The child's bony bottom was hurting the mother's lap.
+< His complete ignorance explains his inefficiency. 
+< She contracted a stomach illness from the local food.
+< In order to impress him, titillate his interests. 
+< The invention rotated upon the push of a button.
+---
+> The child's bony bottom is hurting her lap.
+> His complete ignorance creates inefficiency. 
+> She contracted a stomach illness from the food.
+> Titillate his interests to impress him.
+> A push of a button rotated the invention.
+628c628
+< The gazelle grazed at the outskirts of the jungle.
+---
+> The gazelle grazed outside of the jungle.
+633,634c633,634
+< Her giggle was the hardest I've ever seen her laugh. 
+< House arrest is a restriction that the law places on particular criminals. 
+---
+> A giggle is the most she will ever laugh.  
+> House arrest is a law-imposed restriction. 
+636,638c636,638
+< The level of unemployment has risen in the last year. 
+< The liar became an imposter when discovered. 
+< He had to squint in the brightness of the light.
+---
+> The level of unemployment has risen.
+> The discovered liar is now an imposter. 
+> The light is so bright that he has to squint. 
+640c640
+< She wanted to talk about marriage, he wanted a breakup.
+---
+> She wants marriage, he wants to breakup.
+642,644c642,644
+< The mathematical classification of the required course worried him. 
+< The man was proud of his patented mechanism. 
+< The formulation of the medication was updated recently. 
+---
+> The course has a mathematical classification. 
+> The man is proud of his patented mechanism
+> The formulation of the medication is new.
+647,648c647,648
+< While based on utopian ideals, the movement was important. 
+< This movie has one adventure after the other. 
+---
+> The movement is based on utopian ideals.
+> This movie is one adventure after the other. 
+650,652c650,652
+< Migration changed the population of the nation substantially. 
+< The archives contain all news since the 1950s. 
+< The rumble was the scariest noise she had ever heard.
+---
+> Migration changed the population of the nation. 
+> The archives contain the news since 1950. 
+> The scariest noise ever was the rumble.
+654,656c654,656
+< Unless caused by impact, a nosebleed doesnít usually cause pain. 
+< His borderline personality disorder was recently diagnosed. 
+< The paradigm brought up in philosophy class confused her. 
+---
+> A nosebleed usually doesn’t cause you pain. 
+> He has borderline personality disorder. 
+> The paradigm taught in philosophy confused her. 
+661,665c661,665
+< Play volleyball more often to get good legs. 
+< She would lie awake and fantasize about the pleasure of his touches. 
+< The poor woman was tormented by her faults.
+< She got probation and didn't have to go to prison.
+< The beekeeper, always a professional, stayed calm as they spoke. 
+---
+> Play volleyball more often for good legs. 
+> She fantasizes about the pleasure of his touches. 
+> The poor woman is tormented by her faults.
+> She got probation and didn't go to prison.
+> The beekeeper, always a professional, stayed calm.
+667,669c667,669
+< Their standard of quality is higher than that of most. 
+< Adding ethanol will produce a different reaction. 
+< Half of the literature she read was medieval. 
+---
+> Their standard of quality is higher than yours.  
+> Adding ethanol produces a new reaction. 
+> Half of the literature she reads is medieval. 
+671,673c671,673
+< By definition, a missionary is religious.  
+< The neighborhood has a new residence up for sale. 
+< The pileup on the road didn't clear for hours.
+---
+> A missionary is religious by definition.  
+> The neighborhood has a new residence or two.
+> The road pileup didn't clear for hours.
+675,676c675,676
+< His dissertation was in the field of material sciences.
+< He was excited to see flounder in the seafood section of the grocery store.
+---
+> His dissertation is in material sciences.
+> He is happy to see flounder in the seafood section.
+679c679
+< The symbol of the cheerleader is very sexy in America.
+---
+> The idea of a cheerleader is very sexy. 
+682c682
+< The humor of the show was slapstick comedy.
+---
+> The humor of the show is slapstick comedy.
+686,687c686,687
+< Tanning your skin artificially can cause cancer.
+< She is genuinely smart but doesn't work hard enough.
+---
+> Tanning your skin artificially causes cancer.
+> She genuinely is smart but doesn't work hard. 
+689,690c689,690
+< The solution is straightforward and hopefully effective. 
+< She wondered if her soul would live on in eternity.
+---
+> The solution is straightforward and effective. 
+> She hopes her soul will live on in eternity.
+692c692
+< He spoke conversationally, not really listening.
+---
+> He spoke conversationally without listening.
+694c694
+< In preparation for the semester, the student reread all her notes.
+---
+> The student reread her notes before the course. 
+696c696
+< Her successful career made her a legendary figure.
+---
+> Her successful career made her legendary. 
+699,700c699,700
+< The porcelain stood at the center of the table. 
+< Her delicate palate reacted strongly to the taste of the unfamiliar fruit. 
+---
+> The porcelain is at the center of the table. 
+> Her delicate palate reacted strongly to the taste.
+704,705c704,705
+< The switchblade is a dangerous tool to carry around.
+< The toy became a figment of her imagination.
+---
+> The switchblade can be a dangerous tool. 
+> The toy is strangely lifelike.  
+708,711c708,711
+< He tried to close the door, this time forcibly.
+< She assumed that this kind of weather was typical for the city.
+< Inarticulate and unaware of current issues, he makes a terrible candidate. 
+< The microwave is recognizably usable for the average citizen.
+---
+> He tried to close the door forcibly. 
+> She assumed that this weather is typical. 
+> He is inarticulate and unaware of this issue. 
+> The microwave is recognizably usable.
+713,719c713,719
+< The vacation in Hawaii proved to be a luxury.
+< He did not want to know of any casualty of the war. 
+< After she could wash herself, she finally felt clean.
+< The project had a weak foundation and overall was poorly managed.
+< I can't wear something unbuttoned to meet his parents.
+< The weather report did not predict the blizzard.
+< She answered the prosecutor's questions openly and willingly.
+---
+> The vacation in Hawaii was a luxury.
+> He did not want to know of any war casualty.
+> She felt clean after she could wash herself.
+> The poorly managed project has a weak foundation. 
+> I can't wear this unbuttoned to meet his parents.
+> The weather report didn’t predict the blizzard.
+> She openly and willingly answered the questions.
+721,727c721,727
+< Having forethought is an important ability. 
+< The thinker became accomplished through his writings. 
+< Dissatisfied and angry, he sulked in the corner. 
+< The hallway in the apartment is long and skinny.
+< He caught an earful of applause on his way out. 
+< The statement supports the second argument better. 
+< She approached the conversation precociously and argumentatively.
+---
+> Forethought is an important ability.  
+> The thinker became accomplished later on.
+> Dissatisfied and angry, he began to sulk. 
+> The long hallway in the apartment is skinny.
+> He caught an earful of applause as he left.
+> The statement supports the other argument. 
+> They spoke precociously and argumentatively.
+729c729
+< His humorless attitude is stereotypical for his family.
+---
+> His humorless attitude is stereotypical. 
+732c732
+< The popular nightclub had added a new bar. 
+---
+> The popular nightclub has added a bar. 
+736,738c736,738
+< On this hot day she was dying for a pint of beer.
+< There was a big selection of a hodgepodge of foods.
+< The bird was holding the worm in its beak. 
+---
+> All she wants today is a pint of beer.
+> There big selection is just a hodgepodge.  
+> The bird holds the worm in its beak. 
+740,741c740,741
+< The midsection of his body was well trained.
+< Neuroscientists research the localization of functions in the brain.
+---
+> The midsection of his body is well trained.
+> Neuroscientists research the brain functions. 
+744,751c744,751
+< The heat of the stove in itself can burn you. 
+< The business wanted to expand its physical property.
+< The camera display had numerous menu options. 
+< The house was carefully and flawlessly constructed. 
+< It was critical to the team that he passed this challenge.
+< The charity is a resource for families with needs to turn to. 
+< The charming toddler's mischievousness got him into trouble. 
+< Sports clothes are usually made of spandex.
+---
+> The heat of the stove can burn you. 
+> The business will expand its physical property.
+> The camera display had many menu options. 
+> It is carefully and flawlessly constructed. 
+> This challenge is critical for the team. 
+> The charity is a resource for these families.  
+> The toddler’s mischievousness toddler is charming. 
+> Sports clothes can be made of spandex.
+754c754
+< The item wasn't worth adding to the collection.
+---
+> The item isn’t worth adding to the collection.
+756c756
+< The homeowner hated the noise of construction.
+---
+> The homeowner hated the construction.
+760,761c760,761
+< Severe damage from the flood left many without a home.
+< He was found dancing the dance all the time.
+---
+> The flood caused severe damage. 
+> He is found dancing the dance all the time.
+763,765c763,765
+< She did not want to deceive him, but she was too far into the operative now. 
+< His dedication to the relationship meant he was very faithful to her. 
+< The decision was made deliberately and it unjustly cost her her job.
+---
+> The operative was meant to deceive him.  
+> His dedication to her shows how faithful he is.
+> The decision was deliberately and unjustly made. 
+767,768c767,768
+< The jelly sandwich was practically dessert. 
+< The device was disconnected from the power outlet.
+---
+> The jelly sandwich is practically dessert. 
+> The device was disconnected from power.
+771,773c771,773
+< The patient was relieved to hear that his disease was in remission. 
+< You won't dissolve the memory if you compartmentalize it. 
+< Restrain yourself and don't disturb the peace. 
+---
+> She heard her disease is in remission. 
+> You can compartmentalize it but never dissolve it.
+> Restrain him so he can’t disturb me.  
+775c775
+< He would consult his friend first before he saw his doctor.
+---
+> He will consult his friend before his doctor.
+779c779
+< Unemployment continues to affect the country's economy.
+---
+> Unemployment still affects the economy.
+781,784c781,784
+< Calculating the mass of an electron uses Planck's constant. 
+< The combination of sensuality and elegance is hard to match. 
+< Her disapproval resulted in an emotion she later identified as embarrassment.  
+< The family solidly pumped him up emotionally. 
+---
+> Use Planck’s constant for the mass of an electron. 
+> Sensuality and elegance are hard to fake. 
+> She felt an emotion she knew to be embarrassment.  
+> The family solidly pumps him up emotionally. 
+786,790c786,790
+< The impromptu nature of the event made it special.
+< A recent physics experiment led to an important observation.
+< Exceptionally gifted and extremely humble, Steve was easy to envy. 
+< His temperamental mood swings had her feeling sad.
+< The bloodline was worth the fight.
+---
+> The impromptu event was special.
+> A recent experiment led to a new observation.
+> Steve is exceptionally gifted and extremely humble.
+> His temperamental moods left her feeling sad.
+> Her bloodline was worth the fight.
+795,796c795,796
+< He couldn't take his eyes off of the glittering gold.
+< The food was great and the service exceptional.
+---
+> The glittering gold is breathtaking.
+> The food is great and the service exceptional.
+798,807c798,807
+< He lost most of his hair when he tried to straighten it. 
+< You won't stabilize unless you let him help you.
+< The prosthetic arm was hurting her where it attached. 
+< Cut the tomfoolery and work on changing ignorance. 
+< Typhoid was an illness that affected many people back in the day.
+< Try more than to impress him, astonish him!
+< The invention was shown schematically on a large piece of paper.
+< The burglary did not lead to an investigation.
+< It was inexplicable how the boy had become invisible. 
+< The manager wanted to give up his job soon after he got it. 
+---
+> Don’t straighten your hair if you want to keep it. 
+> You will stabilize if you let him help you.
+> The prosthetic arm was hurting her. 
+> Cut the tomfoolery and fix on your ignorance. 
+> Typhoid is an illness that affected many people.  
+> Try to impress or astonish him!
+> The invention is schematically drawn. 
+> The burglary didn’t lead to an investigation.
+> It’s inexplicable how the boy became invisible. 
+> The manager wanted to give up his job
+809c809
+< The direct nature of his kindness was gentlemanly. 
+---
+> The direct nature of his kindness is gentlemanly. 
+812c812
+< In a faraway land, people live very differently. 
+---
+> In a faraway land, people live differently. 
+815c815
+< He walked to the left of the room, feeling unnoticed. 
+---
+> He was left feeling unnoticed.  
+817c817
+< The fast talker spoke fast because she was a nervous liar. 
+---
+> The fast talker and liar both spoke fast.  
+820c820
+< The newlywed groom could talk about marriage for hours.
+---
+> The newlywed talks about marriage for hours.
+822,825c822,825
+< Mathematical formulas involve arbitrary variables. 
+< The footrest could be extended by a specially designed mechanism. 
+< She couldn't get a new prescription so she took her old medication instead. 
+< Earn some money first before you take mine. 
+---
+> Mathematical formulas use arbitrary variables. 
+> The mechanism is designed for that. 
+> She took her old prescription medication instead. 
+> Earn some money before you take mine. 
+827,833c827,833
+< The mindset of many in the movement was scary. 
+< He has to unlock the T.V. to watch the movie. 
+< Karaoke is not the place to hear good music. 
+< Globalization impacts some nations much more than others. 
+< The newsroom is where the news is broadcasted. 
+< She suppressed her squeal to not make any noise.
+< The stockholder has an obligation to keep his word. 
+---
+> Many in the movement have a scary mindset.  
+> Turn on the T.V. to watch the movie. 
+> Karaoke is not the place for good music. 
+> Globalization impacts this nation more. 
+> The news is broadcasted in the newsroom.
+> She suppressed her squeal to not make noise.
+> The stockholder has an obligation to stay.  
+836c836
+< Materialism is a point of discussion in philosophy. 
+---
+> Materialism is a discussion in philosophy. 
+839,840c839,840
+< The plan was a demonstration of her goodwill.
+< The garden could use a new plant and some fertilizer. 
+---
+> The plan is a demonstration of her goodwill.
+> The garden could use a new plant.
+842,843c842,843
+< He was gay and gained pleasure from watching the men on the walkway. 
+< The poor girl became dependent on her family again. 
+---
+> He was gay and got pleasure from him.  
+> The poor girl became dependent again.
+845,848c845,848
+< The lumberyard needs to hire a new a professional. 
+< She did not feel safe with the protection she was given.
+< Maintaining the quality of produce is becoming more difficult.
+< The impurity of the materials will hinder a reaction. 
+---
+> The lumberyard needs a professional. 
+> She feels safe with the given protection. 
+> Maintaining quality of produce is hard.
+> The impurity won’t create a reaction. 
+851c851
+< The chapel is where you can perform religious practice.
+---
+> They perform religious practice at the chapel.
+853,854c853,854
+< To the tourist's surprise, the main road only had one lane.
+< The depressing movie made everyone in the audience sad. 
+---
+> Surprisingly, the main road only has one lane.
+> The depressing movie made everyone sad.
+857c857
+< The drugstore sells both prescription and over-the-counter medicines.
+---
+> The drugstore sells prescription drugs.
+861,862c861,862
+< The voyage began when the ship left the island. 
+< She wanted to reenact the storyline of the show.
+---
+> The voyage began as the ship left the island. 
+> She wants to reenact the storyline of the show.
+865c865
+< The couple spent the night rejoicing his sin. 
+---
+> The couple is rejoicing in his sin. 
+867,870c867,870
+< The fifth grader was smart and resourceful. 
+< The little boy was obligingly smiling at the teacher. 
+< A viable solution for global warming is hard to come up with. 
+< Her soul wished for something eternal to hold on to. 
+---
+> The fifth grader is smart and resourceful. 
+> The little boy is smiling obligingly.
+> Find a viable solution for global warming. 
+> Her soul wished for something eternal.
+872c872
+< The first grader spoke engagingly during her presentation.
+---
+> The child spoke engagingly in her presentation.
+875,876c875,876
+< The stupid lowlife walked right out of her life. 
+< That woman is so successful that we call her a powerhouse. 
+---
+> The stupid lowlife walked right out.  
+> That powerhouse of a woman is so successful. 
+878,884c878,884
+< The real kidnapper was not a suspect in the case. 
+< The silverware looked beautiful on the table.
+< The distinctive taste of the cereal did not please him.
+< The prospect of playing with the team made him happy.
+< His skin had gotten a leathery texture over the years.
+< The calendar didn't have enough space to write in the time. 
+< The shears did not work as well as the tool shop advertised.
+---
+> The real kidnapper isn’t a suspect in the case. 
+> The silverware looks beautiful on the table.
+> The distinctive taste of the cereal is gross.  
+> The prospect of playing with the team is good. 
+> His skin had become a leathery texture.
+> Write the time into a calendar space. 
+> The tool shop advertised the shears. 
+887c887
+< The juror felt forced to take part in the trial. 
+---
+> The juror was forced to be in the trial. 
+889,899c889,899
+< He preferred the typical, conventional kind of pants. 
+< He was unaware of how uninterested she was. 
+< It won't be marketable until it is universally usable. 
+< The grueling process turned out to be useless.
+< She enjoyed being on vacation, a hideaway from home. 
+< I don't know how you could rebel against a war. 
+< You have to wash your laundry before you can go. 
+< The dismal building looked weak in the wind.
+< If you wear bloomers one more time, I'll scream.
+< The monsoon was typical of New Delhi weather. 
+< She fiercely defended him as he willingly took the blame. 
+---
+> He prefers the typical and conventional. 
+> He’s unaware of how uninterested she is. 
+> It will be marketable once it is universally usable. 
+> The grueling process is just useless.
+> The vacation is a hideaway from home. 
+> You can rebel against a war. 
+> You have to wash your laundry beforehand. 
+> The dismal building looks weak in the wind.
+> I’ll scream if you wear bloomers again. 
+> Typical summer weather is a monsoon. 
+> She is fiercely and willingly independent. 
+901,904c901,904
+< His unwavering intuition is a priceless ability. 
+< The accomplished publicist had more clients than he could name. 
+< Flabbergasted at the results, she made an angry phone call. 
+< The apartment has the cutest little nooks. 
+---
+> His unwavering ability is unmatched. 
+> The accomplished publicist has many clients. 
+> Flabbergasted at her results, she got angry.  
+> The apartment has cute little nooks. 
+906,909c906,909
+< The truth cannot be found with this argument. 
+< Beginning provocatively and ending argumentatively, he made a bad impression.
+< The irony of the piece was that it wasn't art in any shape or form.
+< His attitude about this problem is nonchalant. 
+---
+> There’s no truth to this argument. 
+> Her speech began provocatively and argumentatively. 
+> The irony of the piece is pure art.
+> He has a nonchalant attitude about it.
+916,917c916,917
+< He was thirsty, but luckily he had lots of beer in the fridge. 
+< A bucketful of big strawberries awaited them. 
+---
+> He was thirsty for the beer in the fridge. 
+> A bucketful of big strawberries awaits them
+919,921c919,921
+< The blood in a vein appears blue through our skin. 
+< Outside of the limelight, the model's body was unimposing. 
+< The cerebellum is one of the oldest parts of the brain. 
+---
+> Blood looks blue through our skin. 
+> The model's body is unimposing in reality. 
+> The oldest brain is the cerebellum. 
+923c923
+< The mosque is the lowest building on the street. 
+---
+> The mosque is the lowest building here.  
+925,931c925,931
+< This new business venture could make her rich. 
+< The camera reflex was too slow for what he wanted. 
+< She conducted it so carefully, that the outcome was brilliantly designed. 
+< The way he passed the challenge was formidable. 
+< I encourage you to participate in the charity fundraiser. 
+< The proposal was charming and rather gutsy. 
+< His jacket protected his clothes from getting wet.  
+---
+> This new business venture will make her rich.
+> The camera reflex is too slow. 
+> She carefully and cleverly constructed the outcome
+> Passing the challenge is a formidable feat. 
+> I encourage you to participate in the charity. 
+> The charming proposal was gutsy.  
+> His jacket protects his clothes from getting wet.  
+933,934c933,934
+< She needs to modify her code to take user's inputs.
+< She assembled a collection from items bought at auctions.
+---
+> Modify her code so it can take user inputs.
+> She assembled a collection of auction items. 
+936,937c936,937
+< The workmanship of the construction company was amazing.  
+< To cook the stew, first warm up the stove. 
+---
+> The construction is true workmanship.  
+> Warm up the stove to cook the stew. 
+939,940c939,940
+< As crazy as the dystopia was, it was his new life. 
+< The amount of damage in the streets was unexpected. 
+---
+> This crazy dystopia was his new life.
+> There is an unexpected amount of damage. 
+942,946c942,946
+< It is unacceptable how dangerous these living conditions are. 
+< The motive was serious enough for him to deceive his friend. 
+< Her loyal dedication was demonstrated over the years.  
+< He foolishly accepted the offer that deliberately cut his wage in half. 
+< Because time was of essence, she requested express delivery.
+---
+> These dangerous conditions are unacceptable.
+> Her motive is to deceive his friend. 
+> Her loyal dedication is indisputable.
+> He foolishly accepted the offer deliberately. 
+> She requested express delivery to save time.
+949c949
+< While he wanted to dig, he didn't want to be underground. 
+---
+> He didn’t want to dig underground. 
+951c951
+< They didn't know the source of his respiratory disease. 
+---
+> Respiratory disease hinders his breath. 
+953c953
+< If you disturb the meeting, you might jeopardize your chances. 
+---
+> Do not disturb or jeopardize your chance. 
+955c955
+< The physician preferred being called a doctor. 
+---
+> The physician prefers being called a doctor. 
+958,964c958,964
+< The driver hated loading in at the airport. 
+< The current economy is good for college graduates. 
+< The councilman didn't stay for the election. 
+< The movement of an electron is often discussed in thermal chemistry.  
+< The inherent elegance of the palace overwhelmed her. 
+< Her desire to feel a more positive emotion was overwhelming. 
+< While he was successful academically, he was underdeveloped emotionally. 
+---
+> The driver hates loading in at the airport. 
+> The current economy is good for graduates. 
+> The councilman will stay for the election. 
+> Find the thermal energy of an electron. 
+> The elegance of the palace is inherent. 
+> She has a desire to feel overwhelming emotion. 
+> The kid is successful and emotionally in tune. 
+966,969c966,969
+< The luncheon was a monthly event hosted by the headmaster. 
+< Initial expectations didn't match up with the results of the experiment.
+< Unarguably the best student in the class, Sarah remained extremely competitive. 
+< She was feeling weary of his skittish behavior.
+---
+> The headmaster’s luncheon is a monthly event. 
+> The experiment is built on initial expectations.
+> Sarah unarguably remained extremely competitive. 
+> She’s feeling weary of his skittish behavior.
+971c971
+< Some love the water to surf, some like the fish. 
+---
+> You might see some fish when you surf.  
+973c973
+< Finding suitable food at the steakhouse is hard for a vegetarian. 
+---
+> The steakhouse serves vegetarian food. 
+976c976
+< It is amazing how great she is at getting what she wants. 
+---
+> It is amazing how great of a runner she is.  
+978,984c978,984
+< The cat's whiskers felt like human hair to the touch. 
+< Reinforce the idea that letting people help you is a sign of strength.
+< After giving birth, her pelvis was hurting tremendously. 
+< I can't tell if it is your cockiness or ignorance that bothers me most. 
+< Luckily, he wasn't susceptible to the illness. 
+< Tonight, you will mesmerize and impress your audience.  
+< The new invention involved a reflective material overlying the glass material.
+---
+> The cat's whiskers felt like human hair.
+> Reinforce the idea that help is good.
+> Her pelvis was hurting tremendously. 
+> Your cockiness and ignorance bother me most. 
+> He isn’t susceptible to the illness. 
+> You will mesmerize and impress your audience.  
+> The new invention has a reflective surface. 
+987,989c987,989
+< The first month on the job is under supervision. 
+< A new species of frog were recently discovered in the jungle. 
+< Piety and kindness were practiced at school. 
+---
+> This month the job is under supervision. 
+> The jungle houses a new species of frog. 
+> The school teaches piety and kindness.
+991c991
+< The darling of the society was a lady from New York. 
+---
+> The lady was a darling of society.
+996c996
+< He performs at a greater level than his coworkers. 
+---
+> He performs at a greater level than you.  
+1000,1005c1000,1005
+< Marriage advice is probably a good thing to get. 
+< Scientists keep working on creating an unbreakable material. 
+< The article made some generalizations based on solid mathematical grounds. 
+< He was able to fix the mechanism in no time.
+< This medication proved to be essential to his well-being.  
+< I need to withdraw some money before we go out. 
+---
+> You should get some marriage advice. 
+> These scientists create an unbreakable material. 
+> These generalizations are mathematical in nature. 
+> He’s able to fix the mechanism in no time.
+> This medication is essential to his well-being.  
+> I can withdraw some money beforehand.
+1007,1008c1007,1008
+< Many radical people took part in the movement. 
+< A movie doesn't have episodes, it has sequels. 
+---
+> Radical people took part in the movement. 
+> A movie can have many sequels. 
+1010,1011c1010,1011
+< A small nation initiated the war, which began with an invasion of nearby territories. 
+< I learned a lot of gossip on the news today. 
+---
+> The rebellion rocked the small nation. 
+> I learn a lot of gossip from the news. 
+1013,1016c1013,1016
+< His boss refused to disclose the exact details of the obligation. 
+< The pain from the stomachache was unbearable. 
+< That trait is a big part of her overt personality. 
+< She loved philosophy and remained agnostic. 
+---
+> His boss refused to disclose the obligation. 
+> The pain from the stomachache is unbearable. 
+> That overt trait is a part of her personality. 
+> She loves philosophy yet remains agnostic. 
+1019,1020c1019,1020
+< Following the plan is essential for success. 
+< He watered the plant after the third reminder. 
+---
+> Follow the essential plan for success. 
+> He watered the plant after the reminder. 
+1022c1022
+< Sexual pleasure is a taboo topic in some cultures. 
+---
+> Sexual pleasure can be a taboo topic.
+1025,1029c1025,1029
+< The ultrasound technician needed another professional's opinion. 
+< He found protection by staying inside the house.
+< Cleanliness is the first commandment in quality. 
+< The concentration will bear impact on the reaction. 
+< He read the documentation of the case last night. 
+---
+> The technician needs another professional’s opinion. 
+> He finds protection inside of the house.
+> Cleanliness is the first decree in quality. 
+> The concentration bears impact on the reaction. 
+> He read the documentation of the case. 
+1032c1032
+< She wished she could take up residence in the hotel. 
+---
+> She could take up residence in the hotel. 
+1035c1035
+< The article was published in her favorite science journal. 
+---
+> The article is in a science journal. 
+1037,1038c1037,1038
+< I will sell secondhand clothes for a living. 
+< The artisan could sew the most beautiful gowns. 
+---
+> I sell secondhand clothes for a living. 
+> The artisan can sew the most beautiful gowns. 
+1040c1040
+< The dimensions of the table made it an odd shape. 
+---
+> The set dimensions created an odd shape. 
+1042c1042
+< This sitcom has been around longer than that show.
+---
+> This show is older than that sitcom.
+1047,1049c1047,1049
+< Too trusting but smart, she managed to get out of the situation. 
+< The woman was found smiling wistfully out the window. 
+< Her solution was affordable for all parties. 
+---
+> While she’s too trusting, she’s smart.
+> The woman is smiling wistfully out the window. 
+> Her solution is affordable for all parties. 
+1051,1055c1051,1055
+< She was broadcasting the sound across the field. 
+< He spoke tellingly about the situation. 
+< She liked that her star sign was Capricorn. 
+< Only one student in the class was bilingual. 
+< She calls her ex a jackass, I just think he is stupid. 
+---
+> She’s broadcasting the sound across the field. 
+> He tellingly spoke about the situation. 
+> She likes that Capricorn is her star sign. 
+> Only one student in the class is bilingual. 
+> She calls him a jackass, I think he’s stupid. 
+1060c1060
+< She enjoyed the aroma and taste of the mousse.
+---
+> She enjoyed the mousse’s aroma and taste. 
+1062c1062
+< The sticky texture of the floor was disgusting. 
+---
+> The floor’s sticky texture is disgusting. 
+1064c1064
+< The best tool for crushing has yet to be determined. 
+---
+> The best tool for crushing is right here.  
+1067,1070c1067,1070
+< The trial was a chance for the attorney to show his expertise. 
+< He abandoned the endeavor after she tried and failed. 
+< She was accustomed to a more typical kind of interaction. 
+< He was unaware and unequipped for the gravity of the situation. 
+---
+> The trial is a huge a chance for the attorney. 
+> He abandoned the endeavor when she tried. 
+> She’s accustomed to a more typical interaction. 
+> He’s unaware and unequipped for this. 
+1072,1074c1072,1074
+< The excruciating demands at work made her feel useless. 
+< For their honeymoon, they had a vacation in France. 
+< The battlefield of the war expanded quickly. 
+---
+> The excruciating demands seemed useless. 
+> Their honeymoon was a vacation in France. 
+> The battlefield of the war grew quickly. 
+1076c1076
+< His pitch was weak and generally amateurish.  
+---
+> His weak pitch is amateurish.  
+1078,1079c1078,1079
+< The balmy weather was good for their skin. 
+< The interviewer consistently attacked him as he willingly obliged. 
+---
+> The balmy weather is good for his skin. 
+> She consistently laughs willingly when he does.   
