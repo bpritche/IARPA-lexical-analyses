@@ -6,7 +6,7 @@
 
 %% Initialize variables
 % Get from word to condition
-load('synt_freq_map.mat', 'synt_freq_map');
+load('synt_freq_map_justN.mat', 'synt_freq_map');
 % Get from condition to condition number
 conds = unique(synt_freq_map.values());
 cond_num_map = containers.Map(conds, 1:length(conds));

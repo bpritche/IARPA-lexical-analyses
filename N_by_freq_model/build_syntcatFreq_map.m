@@ -27,9 +27,11 @@ for i = 1:num_words
     
     % Grab syntcat & standardize
     syntcat = name_syntcat_map(word);
-    if strcmp(syntcat, 'Adj'), syntcat = 'AJ';
-    elseif strcmp(syntcat, 'Adv'), syntcat = 'AV';
-    elseif strcmp(syntcat, 'FuncWord'), syntcat = 'FW';
+%     if strcmp(syntcat, 'Adj'), syntcat = 'AJ';
+%     elseif strcmp(syntcat, 'Adv'), syntcat = 'AV';
+%     elseif strcmp(syntcat, 'FuncWord'), syntcat = 'FW';
+%     end
+    if ~strcmp(syntcat, 'N'), syntcat = 'OTH';
     end
     
     % Grab freq & standardize
@@ -48,4 +50,4 @@ end
 
 %% Save!
 synt_freq_map = containers.Map(names, synt_freqs);
-save synt_freq_map.mat synt_freq_map
+save synt_freq_map_justN.mat synt_freq_map

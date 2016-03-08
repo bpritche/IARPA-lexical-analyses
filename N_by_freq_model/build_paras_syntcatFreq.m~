@@ -6,7 +6,7 @@
 
 %% Initialize variables
 % Get from word to condition
-load('synt_freq_map.mat', 'synt_freq_map');
+load('synt_freq_map_justN.mat', 'synt_freq_map');
 % Get from condition to condition number
 conds = unique(synt_freq_map.values());
 cond_num_map = containers.Map(conds, 1:length(conds));
@@ -33,8 +33,8 @@ paras_dir = fullfile(pwd, 'PARAS');
 
 % templates for input and output filenames
 txt_temp = 'complang04_%s_paradigm%d_repetition%d_run%d_data.txt';
-% sample: IARPAlex_sentences_indwords_FED_20150613a_3T1_rp1rn1.para
-para_temp = 'IARPAlex_%s_syntcatFreq_%s_rp%drn%d.para';
+% sample: _FED_20150613a_3T1IARPAlex_sentences_indwords_rp1rn1.para
+para_temp = '%s_IARPAlex_%s_syntcatFreq_rp%drn%d.para';
 
 % Step through each paradigm, make files!
 for pdgm=1:length(pdgm_names)
@@ -80,26 +80,31 @@ for pdgm=1:length(pdgm_names)
                 else
                     concept_comps = strsplit(conceptLine, '_');
                     concept = concept_comps{2};
+                    if pdgm == 2
+                        % make first letter uppercase
+                        concept = strcat(upper(concept(1)), concept(2:end));
+                    end
                 end
                 
                 % find condition number associated with concept
                 if strcmpi(concept, 'Counting'),concept = 'Count';end
-                condNum = wordFreqMap(lower(concept));
+                this_cond = synt_freq_map(concept);
+                this_cond_num = cond_num_map(this_cond);
                 
                 % print to the file!
-                fprintf(para_fid, '%5.1f\t%d\n', onset_TRs, condNum);
+                fprintf(para_fid, '%5.1f\t%d\n', onset_TRs, this_cond_num);
             end
             
             fclose(data_fid);
             
             % at end, print #names and #durations
             fprintf(para_fid, '\n#names\n');
-            for i=1:length(condNames)
-                fprintf(para_fid, '%s ', condNames{i});
+            for i=1:length(conds)
+                fprintf(para_fid, '%s ', conds{i});
             end
             fprintf(para_fid, '\n\n#durations\n');
             % just print 1.5
-            for i=1:length(condNames)
+            for i=1:length(conds)
                 fprintf(para_fid, '1.5 ');
             end
             
